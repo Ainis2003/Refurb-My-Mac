@@ -31,7 +31,7 @@ Administratorius galės:
 6.	Pašalinti netinkamus ar klaidingus kompiuterių įrašus, remontų įrašus ar nuotraukas, jei pastebimi netikslumai.
 7.	Peržiūrėti bendrus verslo ataskaitų rodiklius ir statistiką: bendrą pelną per pasirinktą laikotarpį (pvz., mėnesio), geriausiai parduodamus modelius, didžiausią pelno maržą, greičiausiai parduotus kompiuterius (mažiausias dienų skaičius nuo įsigijimo iki pardavimo) ir pan
 
-2.	Sprendžiamo uždavinio aprašymas
+2. Sprendžiamo uždavinio aprašymas
 Sistemos sudedamosios dalys:
 	•	Kliento pusė (angl. Front-End) naudojant React.js;
 	•	Serverio pusė (angl. Back-End) naudojant Node.js su Express karkasu;
