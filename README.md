@@ -56,3 +56,17 @@ Viešas svetainės lankytojas (svečias) gali:
 - **Front-End:** React.js  
 - **Back-End:** Node.js su Express  
 - **Duomenų bazė:** PostgreSQL  
+
+---
+
+## 5. Išvados
+Šio projekto metu buvo aprašyta ir suprojektuota informacinė sistema, skirta naudotų
+kompiuterių atnaujinimo ir perpardavimo verslui valdyti. Sistema leidžia registruoti įsigyjamus
+kompiuterius, fiksuoti remonto darbus, sekti patiriamus kaštus ir pardavimo kainas. Tai padeda
+verslo savininkui ir darbuotojams aiškiau matyti veiklos rezultatus, identifikuoti pelningiausius
+sandorius. Ši sistema bus naudojama tikro verslo sprendimui.
+Projekto apimtis buvo ambicinga, tačiau per didelė įgyvendinti per vieną semestrą. Todėl dalis
+sistemos (remontuotojai, siuntos ir kt.) yra riboto, ne iki galo išbaigto funkcionalumo. Projektą
+planuojama pilnai įgyvendinti kaip bakalaurą su papildomu funkcionalumu.
+Išmokta dirbti su Docker, apšlifuotos Node.js ir React žinios. Daugiausiai sunkumų kėlė visko
+apjungimas ir testavimas.
